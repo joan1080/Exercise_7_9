@@ -1,3 +1,5 @@
+
+//calculates the average of a set of marks, until the user types “end”.
 using System;
 
 public class Average
